@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="resources/galaxy.jpg" alt="Galaxy Background" width="100%" height="200" style="object-fit: cover; border-radius: 10px;">
+  <img src="resources/galaxy-rounded.png" alt="Galaxy Background" width="800px" height="300px">
 
   <h1>
     <img src="resources/wavinghand.gif" width="45" align="middle" alt="Waving Hand">
@@ -9,11 +9,11 @@
   </h1>
 </div>
 
-### ✨ About me
+> ### ✨ About me
 <div align="center">
-  <img src="https://img.shields.io/badge/🎓_DAW_Student-0D0221?style=for-the-badge" alt="DAW Student">
-  <img src="https://img.shields.io/badge/📍_Málaga,_Spain-0D0221?style=for-the-badge" alt="Location">
-  <img src="https://img.shields.io/badge/🗣️_English_%26_Spanish-0D0221?style=for-the-badge" alt="Bilingual">
+  <img src="https://img.shields.io/badge/🎓_DAW_Student-0D0221?style=for-the-badge" alt="DAW Student" height="40">
+  <img src="https://img.shields.io/badge/📍_Málaga,_Spain-0D0221?style=for-the-badge" alt="Location" height="40">
+  <img src="https://img.shields.io/badge/🗣️_English_%26_Spanish-0D0221?style=for-the-badge" alt="Bilingual" height="40">
 </div>
 <br>
 
@@ -21,7 +21,7 @@ Hey! I'm **Arturo**, a DAW student from Málaga who enjoys turning curiosity int
 
 I learn best by working on real projects, experimenting with ideas, and solving the problems I run into along the way.
 
-### 💻 Technologies
+> ### 💻 Technologies
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
@@ -35,20 +35,17 @@ I learn best by working on real projects, experimenting with ideas, and solving 
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
 </div>
 
-### 🛰 GitHub Activity
-<!-- 4. Fixed GitHub activity by encoding HTML entities (&amp;) and using fixed heights instead of % widths so they stack nicely side-by-side -->
+> ### 🛰 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArturoSepulveda&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D0221&amp;title_color=b388ff&amp;text_color=a8a8a8&amp;icon_color=7c4dff" alt="Arturo's GitHub Stats" height="195">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoSepulveda&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D0221&amp;title_color=b388ff&amp;text_color=a8a8a8" alt="Top Languages" height="195">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsepval&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D0221&amp;title_color=b388ff&amp;text_color=a8a8a8&amp;icon_color=7c4dff" alt="Arturo's GitHub Stats" width="49%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsepval&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D0221&amp;title_color=b388ff&amp;text_color=a8a8a8" alt="Top Languages" width="49%">
 </div>
 
-<!-- 3. Added Projects Section -->
-### 🚀 Projects
+> ### 🚀 Projects
 <div align="center">
   <p><i>Coming soon...</i></p>
 </div>
 
-### 📫 Contact me
+> ### 📫 Contact me
 <div align="center">
   <a href="https://www.linkedin.com/in/arturosepval/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jsepval111@g.educaand.es"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
